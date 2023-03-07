@@ -1,0 +1,28 @@
+h1 {color: rgb(233, 106, 21) !important; front - size: 12px;}
+h2 {color: rgb(55, 37, 214); front - size: 12px;}
+.noi-quy
+{
+    text-align: center;
+    color: aqua;
+    front size: 4em;
+}
+.bangnoiquy
+{
+    background: rgb(185, 196, 226);
+}
+.border{
+    border: 1px solid rgb(156, 156, 231); 
+    outline: 3px solid blue;
+}
+.border3
+{
+    border-width: 10px;
+}
+.borderblue
+{
+    border-color: aqua;
+}
+.p-2
+{
+    padding: 10px;
+}
